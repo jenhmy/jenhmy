@@ -9,8 +9,12 @@ I’m currently studying **Multiplatform Application Development** in Barcelona.
 ![Java](https://img.shields.io/badge/Java-0D47A1?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0D47A1?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-0D47A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-1E90FF?style=for-the-badge&logo=html5&logoColor=white)
 ![C](https://img.shields.io/badge/C-1E90FF?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1E90FF?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-1E90FF?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1E90FF?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logo=javascript&logoColor=white)
+
  
 ![Blender](https://img.shields.io/badge/Blender-6C3483?style=for-the-badge&logo=blender&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-6C3483?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
