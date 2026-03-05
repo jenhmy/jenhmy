@@ -33,6 +33,13 @@ I’m currently studying **Multiplatform Application Development** in Barcelona.
 
 ---
 
+## 🎮 Games
+
+* 🐍 **[Snake](https://github.com/jenhmy/snake-html)** <html>
+* 🔴 **[Sphere Run](https://github.com/jenhmy/sphere-run)**
+
+---
+
 ### ⚡ GitHub Activity   
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jenhmy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -40,6 +47,10 @@ I’m currently studying **Multiplatform Application Development** in Barcelona.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenhmy&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ferranarna&layout=compact&theme=tokyonight" />
 </p>
 
 ---
