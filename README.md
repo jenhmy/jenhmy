@@ -4,7 +4,7 @@ I’m currently studying **Multiplatform Application Development** in Barcelona.
 
 ---
 
-### 🧰 Tools
+## 🧰 Tools
 ![Unity](https://img.shields.io/badge/Unity-0D47A1?style=for-the-badge&logo=unity&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-0D47A1?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0D47A1?style=for-the-badge&logo=python&logoColor=white)
@@ -40,7 +40,7 @@ I’m currently studying **Multiplatform Application Development** in Barcelona.
 
 ---
 
-### ⚡ GitHub Activity   
+## ⚡ GitHub Activity   
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jenhmy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
