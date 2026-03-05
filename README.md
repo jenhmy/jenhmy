@@ -33,7 +33,7 @@ I’m currently studying **Multiplatform Application Development** in Barcelona.
 
 ---
 
-## 🎮 Games
+## 🎮 Minigames
 
 * 🐍 **[Snake](https://github.com/jenhmy/snake-html)** <html>
 * 🔴 **[Sphere Run](https://github.com/jenhmy/sphere-run)**
