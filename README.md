@@ -26,9 +26,6 @@ I’m currently studying **Multiplatform Application Development** in Barcelona.
 ![Git](https://img.shields.io/badge/Git-2C4664?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-2C4664?style=for-the-badge&logo=github&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-2C4664?style=for-the-badge&logo=virtualbox&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2C4664?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-4A6B90?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-4A6B90?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-4A6B90?style=for-the-badge&logo=docker&logoColor=white) 
 
 ---
