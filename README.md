@@ -38,8 +38,6 @@ I’m currently studying **Multiplatform Application Development** in Barcelona.
 
 ---
 
----
-
 ### ⚡ GitHub Activity   
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jenhmy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
