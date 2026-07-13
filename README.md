@@ -30,10 +30,13 @@ I’m currently studying **Multiplatform Application Development** in Barcelona.
 
 ---
 
-### 🎮 Minigames
+### 🧩 Projects
 
-* 🐍 **[Snake](https://github.com/jenhmy/snake-html)** <html>
-* 🔴 **[Sphere Run](https://github.com/jenhmy/sphere-run)**
+* 🏓 **[Ping Pong Scoreboard](https://github.com/jenhmy/ping-pong-scoreboard)** — HTML, CSS & JavaScript
+* 🐍 **[Snake](https://github.com/jenhmy/snake-html)** — HTML, CSS & JavaScript
+* 🔴 **[Sphere Run](https://github.com/jenhmy/sphere-run)** — Unity
+
+---
 
 ---
 
