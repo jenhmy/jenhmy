@@ -32,7 +32,7 @@ I’m currently studying **Multiplatform Application Development** in Barcelona.
 
 ### 🧩 Projects
 
-* 🏔️ **[Somewhere Wild](https://github.com/jenhmy/somewhere-wild)** — Responsive photography portfolio with gallery filters, interactive map and light/dark themes.
+* 🌲 **[Somewhere Wild](https://github.com/jenhmy/somewhere-wild)** — Responsive photography portfolio with gallery filters, interactive map and light/dark themes.
 * 🏓 **[Ping Pong Scoreboard](https://github.com/jenhmy/ping-pong-scoreboard)** — Responsive ping-pong scoreboard with responsive controls, fullscreen mode and configurable match rules.
 
 ### 🎮 Game experiments
