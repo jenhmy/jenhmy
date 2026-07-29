@@ -32,9 +32,10 @@ I’m currently studying **Multiplatform Application Development** in Barcelona.
 
 ### 🧩 Projects
 
-* 🏓 **[Ping Pong Scoreboard](https://github.com/jenhmy/ping-pong-scoreboard)** — HTML, CSS & JavaScript
-* 🐍 **[Snake](https://github.com/jenhmy/snake-html)** — HTML, CSS & JavaScript
-* 🔴 **[Sphere Run](https://github.com/jenhmy/sphere-run)** — Unity
+* 🏔️ **[Somewhere Wild](https://github.com/jenhmy/somewhere-wild)** — Responsive photography portfolio with gallery filters, interactive map and light/dark themes.
+* 🏓 **[Ping Pong Scoreboard](https://github.com/jenhmy/ping-pong-scoreboard)** — Responsive ping-pong scoreboard with responsive controls, fullscreen mode and configurable match rules.
+* 🐍 **[Snake](https://github.com/jenhmy/snake-html)** — Browser-based version of the classic Snake game built with HTML, CSS and JavaScript.
+* 🔴 **[Sphere Run](https://github.com/jenhmy/sphere-run)** — Unity game focused on movement, obstacle avoidance and real-time gameplay mechanics.
 
 ---
 
@@ -48,7 +49,7 @@ I’m currently studying **Multiplatform Application Development** in Barcelona.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ferranarna&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jenhmy&layout=compact&theme=tokyonight" />
 </p>
 
 ---
