@@ -34,9 +34,10 @@ I’m currently studying **Multiplatform Application Development** in Barcelona.
 
 * 🏔️ **[Somewhere Wild](https://github.com/jenhmy/somewhere-wild)** — Responsive photography portfolio with gallery filters, interactive map and light/dark themes.
 * 🏓 **[Ping Pong Scoreboard](https://github.com/jenhmy/ping-pong-scoreboard)** — Responsive ping-pong scoreboard with responsive controls, fullscreen mode and configurable match rules.
-* 🐍 **[Snake](https://github.com/jenhmy/snake-html)** — Browser-based version of the classic Snake game built with HTML, CSS and JavaScript.
-* 🔴 **[Sphere Run](https://github.com/jenhmy/sphere-run)** — Unity game focused on movement, obstacle avoidance and real-time gameplay mechanics.
 
+### 🎮 Games
+* 🐍 **[Snake](https://github.com/jenhmy/snake-html)** — Small browser game created to practise HTML, CSS and JavaScript fundamentals.
+* 🔴 **[Sphere Run](https://github.com/jenhmy/sphere-run)** — Small Unity learning project developed by following a tutorial and experimenting with basic gameplay mechanics.
 ---
 
 ### ⚡ GitHub Activity   
