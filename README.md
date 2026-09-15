@@ -39,19 +39,5 @@ I’m currently studying **Multiplatform Application Development** in Barcelona.
 * 🐍 **[Snake](https://github.com/jenhmy/snake-html)** — Small browser game created to practise HTML, CSS and JavaScript fundamentals.
 * 🔴 **[Sphere Run](https://github.com/jenhmy/sphere-run)** — Small Unity learning project developed by following a tutorial and experimenting with basic gameplay mechanics.
 * 🚀 **[CrumbSpace](https://github.com/jenhmy/crumbspace)** — 2D Unity arcade game developed for Android and Windows, featuring progressive levels, power-ups, scoring systems and mobile performance optimization.
----
-
-### ⚡ GitHub Activity   
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jenhmy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenhmy&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jenhmy&layout=compact&theme=tokyonight" />
-</p>
 
 ---
