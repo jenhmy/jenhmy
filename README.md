@@ -42,8 +42,8 @@ I’m currently studying **Multiplatform Application Development** in Barcelona.
 
 ### 🎓 Academic Projects
 
-* 🏓 **[Bug Busters Store]((https://github.com/jenhmy/bugbusters_P5))** — Java desktop application built with JavaFX, following an MVC architecture and integrating JPA/Hibernate, MySQL persistence and an interactive dashboard.
+* 🏓 **[Bug Busters Store](https://github.com/jenhmy/bugbusters_P5)** — Java desktop application built with JavaFX, following an MVC architecture and integrating JPA/Hibernate, MySQL persistence and an interactive dashboard.
 
-* 🎮 **[Starbake]((https://github.com/nayo03/Latency-Zero))** — Unity-based academic game project focused on XR/AR development, featuring AR Foundation integration and interactive gameplay mechanics.
+* 🎮 **[Starbake](https://github.com/nayo03/Latency-Zero)** — Unity-based academic game project focused on XR/AR development, featuring AR Foundation integration and interactive gameplay mechanics.
 
 ---
