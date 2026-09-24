@@ -32,12 +32,18 @@ I’m currently studying **Multiplatform Application Development** in Barcelona.
 
 ### 🧩 Projects
 
-* 🌲 **[Somewhere Wild](https://github.com/jenhmy/somewhere-wild)** — Responsive photography portfolio with gallery filters, interactive map and light/dark themes.
+* 🌲 **[Somewhere Wild](https://github.com/jenhmy/somewhere-wild)** — Responsive photography portfolio built with interactive galleries, filterable content, an integrated map and light/dark theme support.
 * 🏓 **[Ping Pong Scoreboard](https://github.com/jenhmy/ping-pong-scoreboard)** — Responsive ping-pong scoreboard with responsive controls, fullscreen mode and configurable match rules.
 
 ### 🎮 Game experiments
 * 🐍 **[Snake](https://github.com/jenhmy/snake-html)** — Small browser game created to practise HTML, CSS and JavaScript fundamentals.
 * 🔴 **[Sphere Run](https://github.com/jenhmy/sphere-run)** — Small Unity learning project developed by following a tutorial and experimenting with basic gameplay mechanics.
 * 🚀 **[CrumbSpace](https://github.com/jenhmy/crumbspace)** — 2D Unity arcade game developed for Android and Windows, featuring progressive levels, power-ups, scoring systems and mobile performance optimization.
+
+### 🎓 Academic Projects
+
+* 🏓 **[Bug Busters Store]([https://github.com/jenhmy/ping-pong-scoreboard](https://github.com/jenhmy/bugbusters_P5))** — Java desktop application built with JavaFX, following an MVC architecture and integrating JPA/Hibernate, MySQL persistence and an interactive dashboard.
+
+* 🎮 **[Starbake]([https://github.com/jenhmy/ping-pong-scoreboard](https://github.com/nayo03/Latency-Zero))** — Unity-based academic game project focused on XR/AR development, featuring AR Foundation integration and interactive gameplay mechanics.
 
 ---
