@@ -33,6 +33,7 @@ I’m currently studying **Multiplatform Application Development** in Barcelona.
 ### 🧩 Projects
 
 * 🌲 **[Somewhere Wild](https://github.com/jenhmy/somewhere-wild)** — Responsive photography portfolio built with interactive galleries, filterable content, an integrated map and light/dark theme support.
+* 🎨 **[TextToMarkdown](https://github.com/jenhmy/text-to-markdown)** — A visual editor that writes GitHub-ready Markdown for you.
 * 🏓 **[Ping Pong Scoreboard](https://github.com/jenhmy/ping-pong-scoreboard)** — Responsive ping-pong scoreboard with responsive controls, fullscreen mode and configurable match rules.
 
 ### 🎮 Game experiments
