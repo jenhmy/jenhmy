@@ -32,12 +32,12 @@ I’m currently studying **Multiplatform Application Development** in Barcelona.
 
 ### 🧩 Projects
 
-* 🌲 **[Somewhere Wild](https://github.com/jenhmy/somewhere-wild)** — Responsive photography portfolio built with interactive galleries, filterable content, an integrated map and light/dark theme support.
-* 🎨 **[TextToMarkdown](https://github.com/jenhmy/text-to-markdown)** — A visual editor that writes GitHub-ready Markdown for you.
-* 🏓 **[Ping Pong Scoreboard](https://github.com/jenhmy/ping-pong-scoreboard)** — Responsive ping-pong scoreboard with responsive controls, fullscreen mode and configurable match rules.
+* 🌲 **[Somewhere Wild](https://jehnmy.github.io/jenhmy/somewhere-wild)** — Responsive photography portfolio built with interactive galleries, filterable content, an integrated map and light/dark theme support.
+* 🎨 **[TextToMarkdown](https://jenhmy.github.io/text-to-markdown/)** — A visual editor that writes GitHub-ready Markdown for you.
+* 🏓 **[Ping Pong Scoreboard](https://jenhmy.github.io/jenhmy/ping-pong-scoreboard)** — Responsive ping-pong scoreboard with responsive controls, fullscreen mode and configurable match rules.
 
 ### 🎮 Game experiments
-* 🐍 **[Snake](https://github.com/jenhmy/snake-html)** — Small browser game created to practise HTML, CSS and JavaScript fundamentals.
+* 🐍 **[Snake](https://jenhmy.github.io/jenhmy/snake-html)** — Small browser game created to practise HTML, CSS and JavaScript fundamentals.
 * 🔴 **[Sphere Run](https://github.com/jenhmy/sphere-run)** — Small Unity learning project developed by following a tutorial and experimenting with basic gameplay mechanics.
 * 🚀 **[CrumbSpace](https://github.com/jenhmy/crumbspace)** — 2D Unity arcade game developed for Android and Windows, featuring progressive levels, power-ups, scoring systems and mobile performance optimization.
 
